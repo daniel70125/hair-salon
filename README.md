@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Special Agent</h3>
+<h3 align="center">Hair Salon</h3>
 
   <p align="center">
-    I created this application for fun. Basically, create or login to a user profile and accept contracts.
+    This is a personal project I'm working on for a hair salon.  I 
     <br />
     <a href="https://github.com/daniel70125/cia"><strong>Explore the docs »</strong></a>
     <br />
@@ -110,7 +110,7 @@ Setup is pretty easy. After cloning this repo use the command terminal or you ca
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install npm@latest -g 
   ```
 
 ### Installation
@@ -147,10 +147,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Users can schedule appointments via a calendar form.
+- [ ] Users will recieve a confirmation email after filling out appointment form.
+<!-- - [ ] Feature 3
+    - [ ] Nested Feature -->
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -176,21 +176,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Daniel Wright - dwrighttt504@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/daniel70125/hair-salon](https://github.com/daniel70125/hair-salon)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
