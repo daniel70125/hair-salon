@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username:daniel70125`, `repo_name:Special Agent`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username: daniel70125`, `linkedin_username: daniel70125`, `email: dwrighttt504@gmail.com`, `project_title: Hair Salon`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,7 +94,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [React.js](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Material UI](https://mui.com/)
+* [React Reveal](https://www.react-reveal.com/)
+* [Node.js](https://nodejs.org/en/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -115,20 +118,23 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/daniel70125/hair-salon.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Run the server (using Node.js)
+   ```sh
+   node server/index.js
    ```
-
+4. Run the react application
+   ```sh
+   npm start
+   ```
+## Enjoy and happy coding!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -145,14 +151,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap/Features
 
 - [ ] Users can schedule appointments via a calendar form.
 - [ ] Users will recieve a confirmation email after filling out appointment form.
 <!-- - [ ] Feature 3
     - [ ] Nested Feature -->
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/daniel70125/hair-salon/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
