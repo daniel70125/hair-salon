@@ -36,7 +36,7 @@
 <h3 align="center">Hair Salon</h3>
 
   <p align="center">
-    This is a personal project I'm working on for a hair salon.  I 
+    This is a personal project I'm working on for a hair salon. I'm hoping to have it done within 3 weeks which would be July 14th, 2022.
     <br />
     <a href="https://github.com/daniel70125/cia"><strong>Explore the docs »</strong></a>
     <br />
