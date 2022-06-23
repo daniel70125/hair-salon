@@ -1,0 +1,12 @@
+header {
+    border:1px solid red;
+    height:10vh;
+    ul {
+        display: flex;
+        list-style-type: none;
+        justify-content: space-around;
+        height:100%;
+        align-items: center;
+    }
+    
+}
