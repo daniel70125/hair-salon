@@ -2,6 +2,9 @@
   "name": "cia",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "autoprefixer": "10.4.5"
+  },
   "main": "server/",
   "proxy": "http://localhost:4000/",
   "dependencies": {
