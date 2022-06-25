@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Header.scss';
-import {NavDropdown, Container, Navbar, Nav} from 'react-bootstrap';
+import {Container, Navbar, Nav} from 'react-bootstrap';
 import Logo from '../../Pictures/logo.svg';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
